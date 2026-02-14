@@ -24,7 +24,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 * **🔐 CryptoGrayImages:** A Python and C-based project focusing on cryptographic concepts and image processing.
 * **🅿️ BPark:** A web-based project focused on parking management and optimization.
 * **🌊 Kinneret Watch:** A real-time data visualization platform for water levels, integrating official safety alerts and warnings to identify hazardous swimming zones and restricted areas.
-* 🚗 Braude-Mobile (Auto Parts Marketplace): A full-stack web application for browsing and purchasing car parts, featuring a dynamic parts catalog, integrated shopping cart functionality, and a backend system for managing vehicle-specific components.
+* **🚗 Braude-Mobile:** A full-stack automotive parts marketplace featuring a dynamic parts catalog, shopping cart integration, and a backend system for managing vehicle components.
 ---
 
 ### 🧠 Current Interests & Learning
