@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Foaad Abbas 👋 
 
-<!--
-**FoaadAbbas/FoaadAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineering Student & Full-Stack Developer
+I am a results-driven developer and software engineering student at **Braude College of Engineering**, focused on building robust applications that bridge the gap between hardware (IoT) and high-level software. I enjoy diving deep into algorithms and ensuring my code is as efficient as it is functional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C#, C, JavaScript (ES6+), TypeScript |
+| **Frontend** | React, JavaFX, HTML5, CSS3 |
+| **Backend** | Node.js, Express, Firebase |
+| **Tools & OS** | Git, GitHub, Linux, VS Code, IntelliJ |
+
+---
+
+### 📂 Featured Projects
+
+* **🏗️ construction-tracker:** A full-stack web application designed for tracking construction progress using 3D scans.
+* **🪴 IoT Plant Monitor:** An integrated system using IoT sensors, a Firebase backend, and a Gemini-powered chatbot for real-time plant health monitoring.
+* **🐎 Oshri-Stables:** A web and mobile platform developed to monitor the medical status of over 20 horses.
+* **🔐 CryptoGrayImages:** A Python-based project focusing on cryptographic concepts and image processing.
+* **🅿️ BPark:** A web-based project focused on parking management and optimization.
+
+---
+
+### 🧠 Current Interests & Learning
+* 🛡️ **Cryptography:** Implementing AES, ElGamal, and Schnorr signatures.
+* 📊 **Algorithms:** Deep diving into AVL trees and optimizing time complexity ($O(n \log n)$).
+* 🤖 **AI Integration:** Exploring how LLMs can enhance user experience in niche applications.
+
+---
+
+### 📈 GitHub Stats
+![Foaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [Foaad Abbas](https://www.linkedin.com/in/fuad-abbas-910843217/)
+* **Email:** [Foaad.Abbas@e.braude.ac.il](mailto:Foaad.Abbas@e.braude.ac.il)
+
+*"The best way to predict the future is to invent it."*
