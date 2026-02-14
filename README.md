@@ -25,7 +25,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 * **🅿️ BPark:** A web-based project focused on parking management and optimization.
 * **🌊 Kinneret Watch:** A real-time data visualization platform for water levels, integrating official safety alerts and warnings to identify hazardous swimming zones and restricted areas.
 * **🚗 Braude-Mobile:** A full-stack automotive parts marketplace featuring a dynamic parts catalog, shopping cart integration, and a backend system for managing vehicle components.
-* * **💳 BillEase:** A JavaFX desktop application for bill management, featuring **OCR-driven data extraction**, SQL database integration, and automated financial report generation.
+* **💳 BillEase:** A JavaFX desktop application for bill management, featuring **OCR-driven data extraction**, SQL database integration, and automated financial report generation.
 ---
 
 ### 🧠 Current Interests & Learning
