@@ -19,7 +19,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 ### 📂 Featured Projects
 
 * **🏗️ construction-tracker:** A full-stack web application designed for tracking construction progress using 3D scans.
-* **🪴 IoT Plant Monitor:** An integrated system using IoT sensors, a Firebase backend, and a Gemini-powered chatbot for real-time plant health monitoring.
+* **🪴 IoT Plant Monitor:** An integrated IoT system featuring a Firebase backend and a Gemini-powered chatbot. Implements **RAG** for context-aware plant care and **Big Data analytics** for long-term environmental health monitoring.
 * **🐎 Oshri-Stables:** A web and mobile platform developed to monitor the medical status of over 20 horses.
 * **🔐 CryptoGrayImages:** A hybrid Python/C project implementing advanced cryptographic protocols (Twofish, ElGamal, Schnorr) for secure image processing and performance analysis.
 * **🅿️ BPark:** A web-based project focused on parking management and optimization.
