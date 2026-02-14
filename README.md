@@ -1,6 +1,6 @@
 # Hi there, I'm Foaad Abbas 👋 
 
-### 🚀 Software Engineering Student & Full-Stack Developer
+### 🚀 Software Engineering Student & Full-Stack Developer!
 I am a results-driven developer and software engineering student at **Braude College of Engineering**, focused on building robust applications that bridge the gap between hardware (IoT) and high-level software. I enjoy diving deep into algorithms and ensuring my code is as efficient as it is functional.
 
 ---
