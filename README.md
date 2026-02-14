@@ -20,9 +20,9 @@ I am a results-driven developer and software engineering student at **Braude Col
 
 * **🏗️ construction-tracker:** A full-stack web application designed for tracking construction progress using 3D scans.
 * **🪴 IoT Plant Monitor:** An integrated IoT system featuring a Firebase backend and a Gemini-powered chatbot. Implements **RAG** for context-aware plant care and **Big Data analytics** for long-term environmental health monitoring.
-* **🐎 Oshri-Stables:** A web and mobile platform developed to monitor the medical status of over 20 horses.
+* **🅿️ BPark:** A JavaFX desktop application for parking management and optimization, featuring SQL database integration for real-time tracking and automated parking allocation.
 * **🔐 CryptoGrayImages:** A hybrid Python/C project implementing advanced cryptographic protocols (Twofish, ElGamal, Schnorr) for secure image processing and performance analysis.
-* **🅿️ BPark:** A web-based project focused on parking management and optimization.
+* **🐎 Oshri-Stables:** A web and mobile platform developed to monitor the medical status of over 20 horses.
 * **🌊 Kinneret Watch:** A real-time data visualization platform for water levels, integrating official safety alerts and warnings to identify hazardous swimming zones and restricted areas.
 * **🚗 Braude-Mobile:** A full-stack automotive parts marketplace featuring a dynamic parts catalog, shopping cart integration, and a backend system for managing vehicle components.
 * **💳 BillEase:** A JavaFX desktop application for bill management, featuring **OCR-driven data extraction**, SQL database integration, and automated financial report generation.
