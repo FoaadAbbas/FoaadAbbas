@@ -34,8 +34,8 @@ I am a results-driven developer and software engineering student at **Braude Col
 ---
 
 ### 📈 GitHub Stats
-![Foaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+![Foaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoaadAbbas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoaadAbba&layout=compact&theme=radical)
 
 ---
 
