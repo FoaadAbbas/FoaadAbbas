@@ -18,7 +18,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 
 ### 📂 Featured Projects
 
-* **🏗️ [construction-tracker](https://github.com/FoaadAbbas/NetGuard](https://github.com/FoaadAbbas/construction-tracker):** A full-stack web application designed for tracking construction progress using 3D scans.
+* **🏗️ [construction-tracker](https://github.com/FoaadAbbas/construction-tracker):** A full-stack web application designed for tracking construction progress using 3D scans.
 * **🛡️ [NetGuard](https://github.com/FoaadAbbas/NetGuard):** A real-time Network Intrusion Detection System (NIDS) and traffic monitor. Built with **Python (Scapy)** for packet analysis and **Streamlit** for visual threat detection and bandwidth monitoring.
 * **🪴 [IoT Plant Monitor](https://github.com/FoaadAbbas/PantherGrow):** An integrated IoT system featuring a Firebase backend and a Gemini-powered chatbot. Implements **RAG** for context-aware plant care and **Big Data analytics** for long-term environmental health monitoring.
 * **🅿️ [BPark](https://github.com/FoaadAbbas/BPark):** A JavaFX desktop application for parking management and optimization, featuring SQL database integration for real-time tracking and automated parking allocation.
