@@ -52,7 +52,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Foaad Abbas](https://www.linkedin.com/in/fuad-abbas-910843217/)
+* **LinkedIn:** [Foaad Abbas](https://www.linkedin.com/in/foaad-abbas-910843217/)
 * **Email:** [Foaad.Abbas@e.braude.ac.il](mailto:Foaad.Abbas@e.braude.ac.il)
 
 *"The best way to predict the future is to invent it."*
