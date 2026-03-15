@@ -23,7 +23,7 @@ I am a results-driven developer and software engineering student at **Braude Col
 
 ### 📂 Featured Projects
 
-* **🎮 Reverie (Live Simulator):** ([GitHub](https://www.google.com/search?q=https://github.com/foaadabbas/reverie)) - A modular Unreal Engine 5 project built with a hybrid C++ and Blueprint architecture. It functions as a "Live Simulator," exploring diverse gameplay mechanics seamlessly across Action Combat, 3D Platforming, 2.5D Side-Scrolling, and Narrative Exploration modes.
+* **🎮 Reverie (Live Simulator):** ([GitHub](https://github.com/FoaadAbbas/Reverie)) - A modular Unreal Engine 5 project built with a hybrid C++ and Blueprint architecture. It functions as a "Live Simulator," exploring diverse gameplay mechanics seamlessly across Action Combat, 3D Platforming, 2.5D Side-Scrolling, and Narrative Exploration modes.
 * **🏗️ construction-tracker:** ([Live Site](https://construction-tracker-teal.vercel.app) | [GitHub](https://github.com/FoaadAbbas/construction-tracker)) - A full-stack web application designed for tracking construction progress using 3D scans.
 * **🛡️ [NetGuard](https://github.com/FoaadAbbas/NetGuard):** A real-time Network Intrusion Detection System (NIDS) and traffic monitor. Built with **Python (Scapy)** for packet analysis and **Streamlit** for visual threat detection and bandwidth monitoring.
 * **🪴 [IoT Plant Monitor](https://github.com/FoaadAbbas/PantherGrow):** An integrated IoT system featuring a Firebase backend and a Gemini-powered chatbot. Implements **RAG** for context-aware plant care and **Big Data analytics** for long-term environmental health monitoring.
